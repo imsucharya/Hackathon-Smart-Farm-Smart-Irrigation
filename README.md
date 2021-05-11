@@ -3,7 +3,7 @@
 
 # Required Components
 
-•Hardware Required:
+• Hardware Required:
 
 1.Arduino Uno
 
@@ -19,7 +19,7 @@
 
 7.Breadboard
 
-•Software Required:
+• Software Required:
 
 1.Arduino IDE
 
