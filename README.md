@@ -22,6 +22,7 @@
 
 1.Arduino IDE
 
-#About Project
+
+# About Project
 
 It is actually a precision automatic watering system for the plant which automatically watering the plant without your engagement with the system.
