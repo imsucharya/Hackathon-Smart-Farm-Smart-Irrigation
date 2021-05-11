@@ -1,5 +1,5 @@
-# Hackathon
- SMART FARM - SMART IRRIGATION
+# Hackathon - SMART FARM - SMART IRRIGATION
+
 # Required Components
 
 •Hardware Required:
