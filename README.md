@@ -1,4 +1,4 @@
-![IMG-20210512-WA0003](https://user-images.githubusercontent.com/78618979/117869846-ef183600-b2b8-11eb-9b4b-5fbfef94dff4.jpeg)
+
 # Hackathon - Smart Farm - Smart Irrigation
 
 # Required Components
@@ -31,3 +31,7 @@ It is actually a precision automatic watering system for the plant which automat
 
 In smart irrigation system or we can say it automatic plant watering system , we are using an Arduino microcontroller to control and sense the thing in the projects such as sense or measure the moisture in the soil we are using soil moisture sensor. the soil moisture sensor is a sensor which varies the value when it contacts the moisture. Basically it is a resistor that works on moisture condition. When the moisture is more then the value of resistance will decrease and when the moisture is less then the resistance value is more.
 The smart irrigation system is not using only the garden and farms it is also implementing into the crops and smart greenhouse.
+
+# Connections
+
+![IMG-20210512-WA0003](https://user-images.githubusercontent.com/78618979/117869846-ef183600-b2b8-11eb-9b4b-5fbfef94dff4.jpeg)
