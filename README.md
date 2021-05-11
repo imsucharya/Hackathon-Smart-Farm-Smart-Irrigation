@@ -1,3 +1,4 @@
+![IMG-20210512-WA0003](https://user-images.githubusercontent.com/78618979/117869846-ef183600-b2b8-11eb-9b4b-5fbfef94dff4.jpeg)
 # Hackathon - Smart Farm - Smart Irrigation
 
 # Required Components
