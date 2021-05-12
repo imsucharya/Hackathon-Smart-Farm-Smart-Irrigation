@@ -35,3 +35,5 @@ The smart irrigation system is not using only the garden and farms it is also im
 # Connections
 
 ![IMG-20210512-WA0003](https://user-images.githubusercontent.com/78618979/117869846-ef183600-b2b8-11eb-9b4b-5fbfef94dff4.jpeg)
+
+Right now a framework, we took a soil moisture sensor that can detect the Moisture in the soil. Soil moisture sensor gives some an incentive to the microcontroller which we use in the framework for directions.  we prescribe utilizing the simple worth. since on the simple worth, you can adjust the dampness level with the yield gadget.
